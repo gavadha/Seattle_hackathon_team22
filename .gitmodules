@@ -1,3 +1,6 @@
 [submodule "ai_tutor"]
 	path = ai_tutor
 	url = https://github.com/gavadha/Seattle_hackathon_team22.git
+[submodule "ai_tutor/frontend"]
+	path = ai_tutor/frontend
+	url = https://github.com/gavadha/frontend.git
